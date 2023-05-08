@@ -11,3 +11,13 @@ git init - initialize a new repo or reinitialize a repo
 git branch --show-current - Displays the current branch name
 git branch -m branchname - changes the branch name
 git log - displays the changes in the code
+git checkout- to change betweeen the branches
+git checkout -b "branchname"
+
+fork- without giving access working in your local system
+pull request- after developing the code asking the manager to check the code is update it.
+first fork then update code and the ask pull request to merge the code with main source code
+------------------------
+issue - dicussing about issue of code.
+-----------------------------------
+Merge Conflict- if two developers trying to commit with the same change in the line of code is called as merge conflict. 
