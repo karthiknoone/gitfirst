@@ -1,0 +1,13 @@
+Git- It is a version control system.It allow the developers to track the change in the code(like commits).
+
+Github- It is web-based hosting service.
+
+***In local server "git init repo" has the tracking changes to your .txt files***
+use of staging which used to send single files
+
+git commands- 
+
+git init - initialize a new repo or reinitialize a repo
+git branch --show-current - Displays the current branch name
+git branch -m branchname - changes the branch name
+git log - displays the changes in the code
