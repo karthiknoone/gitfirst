@@ -1,3 +1,44 @@
+*********************************Computer Basics***********************************************************************************************
+
+Program: It is a set of instructions or code that is written to perform a specific task on computer.
+
+Software: Software refers to a collection of programs, libraries, and other resources that are designed to work together
+to perform specific task on computer.
+
+Platform: 
+
+1.Hardware Platform: The hardware platform refers to the physical infrastructure on which the software runs.
+It includes the computer's architecture, processor, memory, storage devices, and other components.
+
+2.Operating System Platform: The operating system platform is the software layer that manages hardware resources
+and provides a set of services and APIs (Application Programming Interfaces) for applications to run on top of it.
+Ex: Windows, macOS, Linux, iOS, and Android.
+
+3.Software Development Platform: The software development platform encompasses the tools, libraries, 
+and frameworks used by developers to create applications or services.
+It includes programming languages, software development kits (SDKs), and other development tools.
+
+4.Application Platforms: These platforms provide an environment for developers to create and run specific types of applications,
+such as web applications, mobile applications, or desktop applications.
+Ex:
+web application frameworks like Ruby on Rails or Django,
+mobile app development platforms like iOS or Android SDKs,
+Desktop application frameworks like Electron
+
+5.Cloud Platforms: Cloud platforms offer services and infrastructure to deploy and manage applications in the cloud.
+They provide a range of services like virtual machines, storage, databases, and analytics tools. 
+Ex: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+HARDWARE COMPONENTS OF COMPUTER
+
+CPU: Brain of computer. It performs most of the calculations and executes instructions of a computer program.
+
+RAM: volatile memory that stores data that the CPU needs to access quickly. 
+The amount of RAM affects the computer's performance, as more RAM allows for smoother multitasking and faster data access.
+
+Graphics card: is responsible for rendering images, videos, and animations. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 object-oriented: Everything in java follows object-oriented paradigm.
 
@@ -24,7 +65,7 @@ Multithreaded: We can write Java programs that deal with many tasks at once by d
 The main advantage of multi-threading is that it doesn't occupy memory for each thread.It shares a common memory area.
 Threads are important for multi-media, Web applications, etc.
 
-JDK: JRE + development tools.
+JDK: JRE + development tools + APIs for devloping java applications.
 JRE: JVM + set of libraries.
 JVM: It provides the runtime environment in which Java bytecode can be executed.
 
@@ -34,4 +75,4 @@ what is Java?
 Java is the high-level, object-oriented, robust, secure programming language, platform-independent,
 high performance, Multithreaded, and portable programming language. It was developed by James Gosling in June 1991.
 It can also be known as the platform as it provides its own JRE.
-----------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------
