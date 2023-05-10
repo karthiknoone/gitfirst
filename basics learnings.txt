@@ -1,0 +1,37 @@
+
+object-oriented: Everything in java follows object-oriented paradigm.
+
+Portable: Java supports read-once-write-anywhere approach. 
+We can execute the Java program on every machine. Java program (.java) is converted to bytecode (.class) which can be easily run on every machin
+
+Platform Independent:Java comes with its platform on which its code is executed. Java doesn't depend upon the operating system to be executed.
+
+Secured: Java is secured because it doesn't use explicit pointers.
+
+High-level languages: It use of a compiler or an interpreter for their translation into the machine code.
+
+Low-level language: It use an assembler for directly translating the instructions of the machine language.
+
+Interpreted: Java uses the Just-in-time (JIT) interpreter.
+
+Architecture Neutral: Java is architectural neutral as it is not dependent on the architecture. 
+In C, the size of data types may vary according to the architecture (32 bit or 64 bit) which doesn't exist in Java.
+
+High Performance: Java is faster than other traditional interpreted programming languages 
+because Java bytecode is "close" to native code.
+
+Multithreaded: We can write Java programs that deal with many tasks at once by defining multiple threads.
+The main advantage of multi-threading is that it doesn't occupy memory for each thread.It shares a common memory area.
+Threads are important for multi-media, Web applications, etc.
+
+JDK: JRE + development tools.
+JRE: JVM + set of libraries.
+JVM: It provides the runtime environment in which Java bytecode can be executed.
+
+JRE-implements the runtime environment whereas JVM provides runtime environment. JVM physically exits.
+------------------------------------------------------------------------------------------------------------------
+what is Java?
+Java is the high-level, object-oriented, robust, secure programming language, platform-independent,
+high performance, Multithreaded, and portable programming language. It was developed by James Gosling in June 1991.
+It can also be known as the platform as it provides its own JRE.
+----------------------------------------------------------------------------------------------------------------------
